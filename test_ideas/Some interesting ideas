@@ -1,0 +1,7 @@
+there are always a few archtypes of requirements(now - options)
+    Example1: take some resourses, give some
+    Example2: take resourses, give card
+    ....
+
+
+We can make parent clases fot these types, and just inherit them
